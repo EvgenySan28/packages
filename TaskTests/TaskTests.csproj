@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net5.0</TargetFramework>
+		<PackageId>TaskTests</PackageId>
+		<Version>1.1.3</Version>
+		<Authors>EvgenySan28</Authors>
+		<Company>EvgenyInc</Company>
+		<RepositoryUrl>https://github.com/EvgenySan28/packages</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+		<Title>AppLogger</Title>
+		<Description>Some Pome</Description>
+		<Copyright>Evgeny</Copyright>
+		<AssemblyVersion>1.1.1.0</AssemblyVersion>
+		<FileVersion>1.1.1.0</FileVersion>
+	</PropertyGroup>
+
+</Project>
